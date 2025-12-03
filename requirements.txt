@@ -1,0 +1,10 @@
+# Library Inventory Manager Requirements
+# No external dependencies required - uses Python standard library only
+
+# For development and testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code formatting (optional)
+black>=23.0.0
+flake8>=6.0.0
